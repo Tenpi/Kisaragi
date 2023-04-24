@@ -129,7 +129,7 @@
     "jikan-node": "^1.2.0",
     "jimp": "^0.10.3",
     "js-base64": "^2.5.2",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "kaomojilib": "^1.1.4",
     "kuroshiro": "^1.1.2",
     "kuroshiro-analyzer-kuromoji": "^1.1.0",
