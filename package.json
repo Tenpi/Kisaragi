@@ -147,7 +147,7 @@
     "mdn-search-docs": "^1.4.0",
     "mime": "^2.4.4",
     "mkdirp": "^1.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mp3-duration": "^1.1.0",
     "mw-dict": "^3.0.0",
     "nasa-sdk": "^1.1.10",
